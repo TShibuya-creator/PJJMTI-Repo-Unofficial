@@ -89,6 +89,7 @@ Listed as Gisele's_Nectar1
 * [Transfer Learning of CNN](https://nirbarazida.medium.com/transfer-learning-of-cnn-model-using-google-colab-part-i-62223fbc8bb8)
 * [Tutorial Transfer Learning](https://towardsdatascience.com/beginners-guide-to-transfer-learning-on-google-colab-92bb97122801)
 * [Guide to Haar Cascade Algorithm with Object Detection Sample [SIGN IN REQUIRED]](https://www.analyticsvidhya.com/blog/2022/04/object-detection-using-haar-cascade-opencv/)
+* [Second Normal Form (2NF)](https://www.tutorialspoint.com/Second-Normal-Form-2NF)
 
 
 ---
