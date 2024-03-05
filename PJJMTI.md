@@ -91,6 +91,7 @@ Listed as Gisele's_Nectar1
 * [Guide to Haar Cascade Algorithm with Object Detection Sample [SIGN IN REQUIRED]](https://www.analyticsvidhya.com/blog/2022/04/object-detection-using-haar-cascade-opencv/)
 * [Second Normal Form (2NF)](https://www.tutorialspoint.com/Second-Normal-Form-2NF)
 * [Big Data Material References](https://www.coursera.org/specializations/big-data)
+* [Courses Big Data](https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/?couponCode=ST12MT030524)
 
 
 ---
