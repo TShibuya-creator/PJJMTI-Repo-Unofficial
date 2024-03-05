@@ -90,6 +90,7 @@ Listed as Gisele's_Nectar1
 * [Tutorial Transfer Learning](https://towardsdatascience.com/beginners-guide-to-transfer-learning-on-google-colab-92bb97122801)
 * [Guide to Haar Cascade Algorithm with Object Detection Sample [SIGN IN REQUIRED]](https://www.analyticsvidhya.com/blog/2022/04/object-detection-using-haar-cascade-opencv/)
 * [Second Normal Form (2NF)](https://www.tutorialspoint.com/Second-Normal-Form-2NF)
+* [Big Data Material References](https://www.coursera.org/specializations/big-data)
 
 
 ---
